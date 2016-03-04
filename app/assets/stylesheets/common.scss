@@ -1,0 +1,27 @@
+html {
+  font-size: 62.5%;
+  height: 100%;
+}
+
+*, *::before, *::after{
+  box-sizing: border-box;
+}
+
+body{
+  height: 100%;
+  background-image: url(/images/background/cherry_pink.png);
+  position: relative;
+  min-height: 100%;
+  height: auto !important;
+  font-family: "Hiragino kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+.container{
+  width: 780px;
+}
+
+blockquote {
+  padding: 0 0 0 15px;
+  margin: 0 0 0px;
+}
+
