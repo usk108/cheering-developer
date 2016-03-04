@@ -5,4 +5,6 @@ Optimal break is best for your efficient development.<br>
 This application helps your break.<br>
 <br>
 # How to use
-under construction
+under construction!
+
+
