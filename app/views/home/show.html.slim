@@ -1,0 +1,9 @@
+.container.row
+  h1
+    = @script
+  = image_tag('/images/'+@url, width: "300")
+
+javascript:
+  setTimeout(function(){
+    window.location.href = "#{@next_url}"
+  },5000)

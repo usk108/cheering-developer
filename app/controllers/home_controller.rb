@@ -24,7 +24,7 @@ class HomeController < ApplicationController
   end
 
   def show
-    @next_url = params[:url]    
+    @next_url = params[:url]
     # message = params[:url]
     # result = message.scan URI.regexp
     # @next_url = result[0][0].to_s + "://" + result[0][3].to_s + result[0][6].to_s
