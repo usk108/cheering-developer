@@ -9,7 +9,7 @@ html {
 
 body{
   height: 100%;
-  background-image: url(/images/background/cherry_pink.png);
+  background-image: url(/images/background/cherry-pink.gif);
   position: relative;
   min-height: 100%;
   height: auto !important;
@@ -17,11 +17,15 @@ body{
 }
 
 .container{
-  width: 780px;
+  text-align: center;
 }
 
 blockquote {
   padding: 0 0 0 15px;
   margin: 0 0 0px;
+}
+
+h1 {
+  font-size: 30px;
 }
 
